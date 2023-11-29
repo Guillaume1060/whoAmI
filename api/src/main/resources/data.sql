@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS questions;
 CREATE TABLE questions (
     id INT AUTO_INCREMENT PRIMARY KEY,
     question VARCHAR(250) NOT NULL,
-    response VARCHAR(1000),
+    response VARCHAR(1000)
 );
 
 INSERT INTO questions (question, response) VALUES
