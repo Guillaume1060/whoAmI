@@ -35,4 +35,5 @@ Once the application is running, you can access the web interface at [http://loc
 
 **I hope you like it, and that it helps my application!** 👊  
 ![Gif Awsome](https://media2.giphy.com/media/ZeAwFrwABEh69fcp6Y/giphy.gif?cid=ecf05e47pon8xy7f2wwus9g4a68d84zkfoij3pv5pghtsoc2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ps: Not enough time? but you'd like to know me, see that awful basic SQL file [here](https://github.com/Guillaume1060/whoAmI/blob/main/api/src/main/resources/data.sql)
