@@ -21,6 +21,6 @@ class QuestionControllerTest {
 
     @Test
     void getQuestions() throws Exception {
-        mockMvc.perform(get("/api/v1/questions")).andExpect(status().isOk()).andExpect(jsonPath("$[0].question",is("Can you talk about you ?")));
+        mockMvc.perform(get("/api/v1/questions")).andExpect(status().isOk()).andExpect(jsonPath("$[0].question",is("Who are you ?")));
     }
 }
