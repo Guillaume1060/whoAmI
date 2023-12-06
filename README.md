@@ -20,7 +20,7 @@ To run the application locally, follow these steps:
 4. Run the API: `java -jar .\target\api-0.0.1-SNAPSHOT.jar`
 5. Navigate to the webapp directory: `cd whoAmI/webapp`
 3. Build the webapp : `mvn clean install`
-4. Run the webapp: `java -jar target/my-awesome-app.jar`
+4. Run the webapp: `java -jar .\target\webapp-0.0.1-SNAPSHOT.jar`
 
 Make sure you have [Maven](https://maven.apache.org/) installed.
 
