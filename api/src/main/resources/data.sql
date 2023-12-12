@@ -8,7 +8,7 @@ CREATE TABLE questions
 );
 
 INSERT INTO questions (question, response)
-VALUES ('Who are you ?',
+VALUES ('Who are you ? ',
         'My name is Guillaume, I’m 43.'|| CHR(10) ||'I’m French, I come from north of France, near Lille. I live in Brussels since 2009. I live with my Italian girlfriend In Saint-Gilles. I have no children.
         I have studied business management and earned a master’s degree at Lille’s university in 2003.
         Then, I have worked more than fifteen years in supply chain. I have specifically experiences in procurement, purchase, transports and logistics.'),
