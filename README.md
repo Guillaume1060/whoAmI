@@ -1,7 +1,7 @@
 # Who Am I ? 👨‍💻
 
-## Switchfully's Interview App
-With the aim of presenting myself in an original way, I've created a basic application where I answer potential questions to help others get to know me better🧐. This has allowed me to prepare the interview with enthusiasm while showcasing my knowledge in JAVA.
+## Interview App
+With the aim of presenting myself in an original way, I've created a basic application where I answer potential questions to help others get to know me better🧐. This has allowed me to prepare to interview with enthusiasm while showcasing my knowledge in JAVA.
 
 
 
