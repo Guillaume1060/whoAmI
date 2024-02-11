@@ -9,7 +9,7 @@ CREATE TABLE questions
 
 INSERT INTO questions (question, response)
 VALUES ('Who are you ? ',
-        'My name is Guillaume, I’m 43.'|| CHR(10) ||'I’m French, I come from north of France, near Lille. I live in Brussels since 2009. I live with my Italian girlfriend In Saint-Gilles. I have no children.
+        'My name is Guillaume.'|| CHR(10) ||'I’m French, I come from north of France, near Lille. I live in Brussels since 2009. I live with my Italian girlfriend In Saint-Gilles. I have no children.
         I have studied business management and earned a master’s degree at Lille’s university in 2003.
         Then, I have worked more than fifteen years in supply chain. I have specifically experiences in procurement, purchase, transports and logistics.'),
        ('What is your personality?',
@@ -33,15 +33,6 @@ VALUES ('Who are you ? ',
         'I already have a good knowledge of Java. I know the basis of the oriented object programming, and I’ve started to learn Spring framework.
         I did both Udemy’s courses: https://www.udemy.com/course/java-the-complete-java-developer-course  & https://www.udemy.com/course/spring-framework-5-beginner-to-guru
         I need to keep practising. (lambda, streams…).'),
-       ('What represent for you the switchfully opportunity?',
-        'When you know my journey and my career objective, it is easy to understand that switchfully is the perfect opportunity for me. It would be the last bridge to start my career in a domain I would love to work for.'),
-       ('Why would you like to work for the SPF finances?',
-        'As already explained, I am looking for a job useful for the society and I also look for a good work-life balance. SPF finance correspond to these values. I am also myself a serious motivated person, curious, very eager to learn. I would be a good rookie for the service. '),
-       ('What is your language level?',
-        'I am a French native speaker.
-        My level in English is B1.2. As I know the importance of the English in our domain, I am hardly working on it. I am starting an intensive monthly presential B2 course in January at Eurospeak’s school. I am quite excited that the training is in English, it’s the best way to improve! And I’ve only followed English online courses so I have the programming vocabulary.
-        I don’t speak Flemish yet but living in Belgium for a wild, I’d like to learn it one day.
-        I spent my last years learning Italian, thanks to my girlfriend 😊!'),
        ('What are your hobbies?',
         'As a solar person, I have lots of interests. I love doing sports, travelling, cinema, books, acting, trekking…
         I play tennis in competition (ranked 15/1), I’ve also started to play Padel.
